@@ -11,6 +11,8 @@ twelve thirteen fourteen
 fifteen [youtube:https://www.youtube.com/watch?v=_AQ4Rw4CEVs.B 680 383] [youtube:https://www.youtube.com/watch?v=_AQ4Rw4CEVs.C 789 1011]
 [youtube:https://www.youtube.com/watch?v=_AQ4Rw4CEVs.D 700 800] sixteen
 seventeen
+[youtube https://www.youtube.com/watch?v=_AQ4Rw4CEVs.D&w=700&h=800 ] eighteen
+ninteen
 ';
 
 print_r($post);
